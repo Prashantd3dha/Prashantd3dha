@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Prashant Kumar
 ============================================================================================================================================
 
-Web Developer and Tester
+Cloud/DevOps and Java Developer
 -------------
 ## 💻 Skills & Learning Focus
 
